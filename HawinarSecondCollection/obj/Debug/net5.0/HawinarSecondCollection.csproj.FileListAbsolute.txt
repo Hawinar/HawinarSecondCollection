@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\HawinarSecondCollection\HawinarSecondCollection\bin\Debug\net5.0\HawinarSecondCollection.exe
+C:\Users\Admin\source\repos\HawinarSecondCollection\HawinarSecondCollection\bin\Debug\net5.0\HawinarSecondCollection.deps.json
+C:\Users\Admin\source\repos\HawinarSecondCollection\HawinarSecondCollection\bin\Debug\net5.0\HawinarSecondCollection.runtimeconfig.json
+C:\Users\Admin\source\repos\HawinarSecondCollection\HawinarSecondCollection\bin\Debug\net5.0\HawinarSecondCollection.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\HawinarSecondCollection\HawinarSecondCollection\bin\Debug\net5.0\HawinarSecondCollection.dll
+C:\Users\Admin\source\repos\HawinarSecondCollection\HawinarSecondCollection\bin\Debug\net5.0\HawinarSecondCollection.pdb
+C:\Users\Admin\source\repos\HawinarSecondCollection\HawinarSecondCollection\obj\Debug\net5.0\HawinarSecondCollection.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\HawinarSecondCollection\HawinarSecondCollection\obj\Debug\net5.0\HawinarSecondCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\HawinarSecondCollection\HawinarSecondCollection\obj\Debug\net5.0\HawinarSecondCollection.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\HawinarSecondCollection\HawinarSecondCollection\obj\Debug\net5.0\HawinarSecondCollection.AssemblyInfo.cs
+C:\Users\Admin\source\repos\HawinarSecondCollection\HawinarSecondCollection\obj\Debug\net5.0\HawinarSecondCollection.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\HawinarSecondCollection\HawinarSecondCollection\obj\Debug\net5.0\HawinarSecondCollection.dll
+C:\Users\Admin\source\repos\HawinarSecondCollection\HawinarSecondCollection\obj\Debug\net5.0\refint\HawinarSecondCollection.dll
+C:\Users\Admin\source\repos\HawinarSecondCollection\HawinarSecondCollection\obj\Debug\net5.0\HawinarSecondCollection.pdb
+C:\Users\Admin\source\repos\HawinarSecondCollection\HawinarSecondCollection\obj\Debug\net5.0\HawinarSecondCollection.genruntimeconfig.cache
+C:\Users\Admin\source\repos\HawinarSecondCollection\HawinarSecondCollection\obj\Debug\net5.0\ref\HawinarSecondCollection.dll

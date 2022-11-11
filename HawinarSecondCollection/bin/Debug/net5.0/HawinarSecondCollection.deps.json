@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "HawinarSecondCollection/1.0.0": {
+        "runtime": {
+          "HawinarSecondCollection.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HawinarSecondCollection/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
