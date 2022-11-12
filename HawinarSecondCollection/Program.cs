@@ -359,7 +359,6 @@ namespace HawinarSecondCollection
             for (int k = 0; k < sorted.Length; k++)
                 if (sorted[k] != 0)
                     Console.WriteLine(sorted[k]);
-
         }
         static void ex16Array122()
         {
@@ -749,9 +748,7 @@ namespace HawinarSecondCollection
                         sum += matrix[i, j];
                 return sum;
             }
-
             Console.WriteLine($"Сумма: {SumCol(K)}");
-
         }
         static void ex29Param47()
         {
@@ -802,10 +799,8 @@ namespace HawinarSecondCollection
                         Console.WriteLine(pool[0]);
                         break;
                     }
-                }
-                
+                }             
             }
-
         }
         static void ex31Dynamic22()
         {
@@ -831,7 +826,8 @@ namespace HawinarSecondCollection
         static void ex32Integer7()
         {
             string number = "42";
-            Console.WriteLine(int.Parse(number[0].ToString()) + int.Parse(number[1].ToString()));
+            Console.WriteLine($"\nЗадание 32:\nСумма: {int.Parse(number[0].ToString()) + int.Parse(number[1].ToString())}" +
+                $"\nПроизведение {int.Parse(number[0].ToString()) * int.Parse(number[1].ToString())}");
         }
         
         static void ex33If29()
