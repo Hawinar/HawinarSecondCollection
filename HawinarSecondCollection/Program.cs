@@ -1,10 +1,8 @@
 ﻿using System;
-using System.Collections;
 using System.Collections.Generic;
 using System.Globalization;
 using System.IO;
 using System.Linq;
-using System.Data;
 
 namespace HawinarSecondCollection
 {
@@ -167,13 +165,11 @@ namespace HawinarSecondCollection
             Console.WriteLine("Задание 7:\nВведите число:");
             int n = int.Parse(Console.ReadLine());
             for (int i = 2; i <= n - 1; i++)
-            {
                 if (n % i == 0)
                 {
                     simple = false;
                     break;
                 }
-            }
             Console.WriteLine($"Число {n} простое - {simple}");
         }
         static void ex8Series22()
@@ -312,13 +308,11 @@ namespace HawinarSecondCollection
                 numbers[i] = int.Parse(Console.ReadLine());
             }
             for (int j = 0; j < numbers.Length; j++)
-            {
                 if (!uniqueNumbers.Contains(numbers[j].ToString() + ", "))
                 {
                     uniqueNumbers += numbers[j].ToString() + ", ";
                     count++;
                 }
-            }
             Console.WriteLine($"Уникальных значений: {count}");
         }
         static void ex14Array72()
@@ -363,10 +357,8 @@ namespace HawinarSecondCollection
                         nums[j] = int.MaxValue;
                     }
             for (int k = 0; k < sorted.Length; k++)
-            {
                 if (sorted[k] != 0)
                     Console.WriteLine(sorted[k]);
-            }
 
         }
         static void ex16Array122()
@@ -375,15 +367,11 @@ namespace HawinarSecondCollection
             int K = 3;
             int[] series = { 111111, 2222222, 444444, 3333333, 5555555, 66666 };
             for (int i = 0; i < series.Length; i++)
-            {
                 if (!(series.Length < K))
-                {
                     if (i != K - 1)
                         Console.WriteLine(series[i]);
-                }
-                else
-                    Console.WriteLine(series[i]);
-            }
+                    else
+                        Console.WriteLine(series[i]);
         }
         static void ex17Matrix22()
         {
@@ -397,12 +385,8 @@ namespace HawinarSecondCollection
                                             { 1, 2, 3, 4, 5 },
                                             { 1, 2, 3, 4, 5 }, };
             for (int j = 1; j < N; j += 2)
-            {
                 for (int i = 0; i < M; i++)
-                {
                     sum[j] += matrix[i, j];
-                }
-            }
 
             for (int k = 0; k < sum.Length; k++)
                 Console.WriteLine(sum[k]);
@@ -503,14 +487,12 @@ namespace HawinarSecondCollection
 
             }
             else
-            {
                 for (int i = 0; i < M; i++)
                 {
                     for (int j = 0; j < N; j++)
                         Console.Write(matrix[i, j] + ", ");
                     Console.WriteLine();
                 }
-            }
         }
         static void ex20Matrix97()
         {
@@ -937,5 +919,3 @@ namespace HawinarSecondCollection
     }
     
 }
-
-
